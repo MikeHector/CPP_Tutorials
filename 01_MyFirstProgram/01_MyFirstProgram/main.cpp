@@ -1,7 +1,7 @@
 //First CPP program
+//It prints 'Hello World, I'm Mike'
 #include <iostream>
-char main() {
+int main() {
 	std::cout << "Hello World, I'm Mike\n";
-	std::cout << "Nice to meet you\n";
-	return 'a';
+	return 0;
 }
